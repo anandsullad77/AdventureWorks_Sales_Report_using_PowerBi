@@ -6,6 +6,7 @@ This sales report includes numerous KPIs around the transaction data.
 
 Sales with visual explanations on how these figures impact future sales operations.
 
+![alt text](https://github.com/anandsullad/AdventureWorks_Sales_Report_using_PowerBi/blob/Report_Snap.PNG?raw=true)
 
 Process involved in the project:_
 >> Transformation of all transactions  raw data in power query.

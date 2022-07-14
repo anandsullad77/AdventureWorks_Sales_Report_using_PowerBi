@@ -1,2 +1,15 @@
 # AdventureWorks_Sales_Report_using_PowerBi
-A sales report details all your business’s sales activities and provides insight into what your company should do differently. There are several sales report types, which vary in frequency and KPIs. A sales report should include numerous KPIs, with written explanations of how these figures impact future sales operations.
+
+This repository consist the sales report details all business’s sales activities and provides insight into what the company is doing. 
+
+This sales report includes numerous KPIs around the transaction data.
+
+Sales with visual explanations on how these figures impact future sales operations.
+
+
+Process involved in the project:_
+>> Transformation of all transactions  raw data in power query.
+>> Creating table Relationships and data models.
+>> Creation of calculated columns and measures using DAX Calculations for ease of visualization in charts and graphs.
+>> Visualization of sales data with power BI visuals.
+>> Formatting and linking visuals in dashboard presentation for in depth details on sales in different region and sectors. 
